@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Frédéric Marçon
-- 👀 I’m interested in pharmaceutical sciences
-- 💻 I write some stuff in R and python for methods validations, dissolution analysis, the statistical process control... in pharmacy.
-- Now, I'm playing with MCU in Arduino/C++
+Specializing in pharmaceutical manufacturing, analytical development, and hospital pharmacy. Experienced in R&D leadership. Proficient in R and Arduino for data analysis and automation. Passionate about bridging pharmaceutical science with digital innovation.
 
 <!---
 marconfr/marconfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
